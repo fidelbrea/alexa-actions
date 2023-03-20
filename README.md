@@ -4,9 +4,6 @@ Skill de Alexa para Home Assistant con idioma Español (es-ES). Derivado de [ale
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Este proyecto amplía el proyecto de [@keatontaylor](https://github.com/keatontaylor) llamado [alexa-actions](https://github.com/keatontaylor/alexa-actions).<br>
 El motivo de realizar un fork es porque Keaton Taylor no implementa el idioma español. No obstante, lo que tiene hecho este usuario es genial. Para la instalación, por favor, siga los pasos (en un perfecto inglés) que se muestran en la [Wiki](https://github.com/keatontaylor/alexa-actions/wiki) del proyecto [alexa-actions](https://github.com/keatontaylor/alexa-actions) de [@keatontaylor](https://github.com/keatontaylor).<br>
 <br>
-También me gustaría mencionar a [Carlos Cordero](https://github.com/ccorderor), este usuario también ha realizado un fork desde el proyecto de Keaton Taylor que podéis encontrar [aquí](https://github.com/ccorderor/alexa-actions) y lo interesante de [Carlos Cordero](https://github.com/ccorderor) es que tiene el canal de YouTube [Un loco y su tecnología](https://www.youtube.com/@unlocoysutecnologia) dedicado a la domótica. En dicho canal podréis crecer en vuestro proyecto de domótica a través de los consejos y experiencia de Carlos, que no es poca. Es genial contar con gente así. ¡Gracias Carlos!.<br>
-(También publica en Instagram, TikTok,...)<br>
-<br>
 ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **¡Puedes importar este proyecto como skill de Alexa!**<br>
 Este repositorio git es una Skill de Amazon, por lo que se puede importar como tal, sólo hay que introducir la URL `https://github.com/fidelbrea/alexa-actions` y listo. Esto le ahorrará mucho tiempo.<br>
 Si sigues los pasos de la wiki de K. Taylor encontarás un paso en el que te dice que importes la Skill, si has seleccionado el idioma español no te funcionará con su URL. No te preocupes, usa ésta.<br>
